@@ -4,7 +4,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-#theme                    : "minimal-mistakes-jekyll"
+theme                    : "minimal-mistakes-jekyll"
 
 # Site Settings
 locale                   : "en"
@@ -12,7 +12,7 @@ title                    : "Jeff Hwang"
 title_separator          : "-"
 name                     : "Jeff Hwang"
 description              : "Human Learning • Machine Learning"
-url                      : "https://www.jeffhwang.me/" 
+url                      : #"https://www.jeffhwang.me/" 
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
