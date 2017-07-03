@@ -22,6 +22,11 @@
     &:hover {
       opacity: 1;
     }
+	.site-tag {
+		    line-height: 0.8em;
+			a{font-size:13px;}
+	}
+	
   }
 
   @include breakpoint($x-large) {

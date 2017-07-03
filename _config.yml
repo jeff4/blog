@@ -81,9 +81,9 @@ author:
   name             : "Jeff Hwang"
   avatar           : https://pbs.twimg.com/profile_images/427693200816369664/4mBhvh4-_400x400.png
   bio              : "Human Learning • Machine Learning "
-  location         : "Seattle, WA"
+  #location         : "Seattle, WA"
   email            :
-  uri              : "https://www.jeffhwang.me/"
+  #uri              : "https://www.jeffhwang.me/"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -93,7 +93,7 @@ author:
   github           :
   google_plus      :
   keybase          :
-  instagram        : instajeff4
+  instagram        : 
   lastfm           :
   linkedin         : jeffhwang
   pinterest        :
@@ -173,7 +173,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 10 # amount of posts to show
 paginate_path: /page:num/
 timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
@@ -185,6 +185,7 @@ gems:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+ # - jekyll/tagging
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -212,16 +213,16 @@ tag_archive:
   path: /tags/
   type: liquid
 # https://github.com/jekyll/jekyll-archives
-# jekyll-archives:
-#   enabled:
-#     - categories
-#     - tags
-#   layouts:
-#     category: archive-taxonomy
-#     tag: archive-taxonomy
-#   permalinks:
-#     category: /categories/:name/
-#     tag: /tags/:name/
+jekyll-archives:
+   enabled:
+    - categories
+     - tags
+   layouts:
+     category: archive-taxonomy
+     tag: archive-taxonomy
+   permalinks:
+     category: /categories/:name/
+     tag: /tags/:name/
 
 
 # HTML Compression
@@ -231,7 +232,8 @@ compress_html:
   ignore:
     envs: development
 
-
+tag_page_layout: tag_page
+tag_page_dir: tag
 # Defaults
 defaults:
   # _posts
