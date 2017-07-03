@@ -4,7 +4,7 @@ title: "Some more reviews of AI in 2016"
 tags: whaleshark tech
 category: whaleshark
 ---
-A few more round-ups...
+A few more round-ups from January, 2017.
 
 DeepMind had a pretty [big year in 2016](https://deepmind.com/blog/deepmind-round-up-2016/). Their [AlphaGo](http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html) program famously beat world champion Lee Sedol. They used reinforcement learning to [improve speed of learning in certain contexts by an order of magnitude](https://deepmind.com/blog/reinforcement-learning-unsupervised-auxiliary-tasks/). The significantly [reduced the cooling costs at Google](https://deepmind.com/blog/deepmind-ai-reduces-google-data-centre-cooling-bill-40/).
 
