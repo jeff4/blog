@@ -1,7 +1,7 @@
 ---
 layout: single
 title: 150th Anniversary of Lincoln's Second Inaugural
-tags: cats 
+tags: civil-war history 
 ---
 
 150 years ago today, Abraham Lincoln was sworn into his second term as US President. The Civil War was nearing it's end. Lincoln delivered [a short but powerful speech](http://en.wikipedia.org/wiki/Abraham_Lincoln's_second_inaugural_address) on this occasion. Some of the most famous lines in American political prose—and numerous titles of books—derive from this speech. I actually prefer this to the earlier, shorter, and even more famous [Gettysburg Address](http://en.wikipedia.org/wiki/Gettysburg_Address). Here is the full text from [the Lincoln Institute](http://abrahamlincolnsclassroom.org/abraham-lincoln-in-depth/lincolns-second-inaugural-speech/):
