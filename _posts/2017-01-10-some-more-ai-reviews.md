@@ -2,7 +2,7 @@
 layout: single
 title: "Some more reviews of AI in 2016"
 tags: whaleshark tech
-category: whaleshark
+category: whaleshark machine-learning tech
 ---
 A few more round-ups from January, 2017.
 
