@@ -195,6 +195,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-archives
   #- jekyll-archives
 
 
@@ -208,12 +209,12 @@ whitelist:
 #  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
 #  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
 #  - <base_path/my-awesome-category/index.html ~> path: /
-#category_archive: 
-  #path: /categories/
-  #type: liquid
-#tag_archive: 
-  #path: /tags/
-  #type: liquid
+category_archive: 
+  path: /categories/
+  type: liquid
+tag_archive: 
+  path: /tags/
+  type: liquid
 # https://github.com/jekyll/jekyll-archives
 jekyll-archives:
    enabled:
