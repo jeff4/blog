@@ -11,8 +11,8 @@ locale                   : "en"
 title                    : "Home"
 title_separator          : "-"
 name                     : "Jeff Hwang"
-description              : "Human Learning • Machine Learning"
-url                      : #"https://www.jeffhwang.me/" 
+description              : "Human Learning | Machine Learning"
+url                      : #"https://www.jeffhwang.me/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Jeff Hwang"
   avatar           : https://pbs.twimg.com/profile_images/427693200816369664/4mBhvh4-_400x400.png
-  bio              : "Human Learning • Machine Learning "
+  bio              : "Human Learning | Machine Learning "
   #location         : "Seattle, WA"
   email            :
   #uri              : "https://www.jeffhwang.me/"
@@ -93,7 +93,7 @@ author:
   github           :
   google_plus      :
   keybase          :
-  instagram        : 
+  instagram        :
   lastfm           :
   linkedin         : jeffhwang
   pinterest        :
