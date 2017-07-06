@@ -1,5 +1,5 @@
 ---
-title: "Springtime in DC"
+title: "Summer in DC"
 tags: dc art
 header:
   image: /assets/images/National+Gallery,+north+entrance.jpg
