@@ -1,8 +1,8 @@
 ---
 layout: single
 title: "Some more reviews of AI in 2016"
-tags: whaleshark tech
-category: whaleshark machine-learning tech
+tags: whaleshark tech machine-learning 
+category: whaleshark tech
 ---
 More evidence that 2016 was a breakthrough year for AI, esp. machine learning techniques related to deep learning.
 
