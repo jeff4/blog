@@ -8,7 +8,7 @@ theme                    : "minimal-mistakes-jekyll"
 
 # Site Settings
 locale                   : "en"
-title                    : "Jeff Hwang"
+title                    : "Home"
 title_separator          : "-"
 name                     : "Jeff Hwang"
 description              : "Human Learning • Machine Learning"
@@ -185,6 +185,7 @@ gems:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-archives
  # - jekyll/tagging
 
 # mimic GitHub Pages with --safe
@@ -194,6 +195,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  #- jekyll-archives
 
 
 # Archives
@@ -206,17 +208,17 @@ whitelist:
 #  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
 #  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
 #  - <base_path/my-awesome-category/index.html ~> path: /
-category_archive: 
-  path: /categories/
-  type: liquid
-tag_archive: 
-  path: /tags/
-  type: liquid
+#category_archive: 
+  #path: /categories/
+  #type: liquid
+#tag_archive: 
+  #path: /tags/
+  #type: liquid
 # https://github.com/jekyll/jekyll-archives
 jekyll-archives:
    enabled:
     - categories
-     - tags
+    - tags
    layouts:
      category: archive-taxonomy
      tag: archive-taxonomy

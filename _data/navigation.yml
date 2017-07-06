@@ -1,11 +1,13 @@
 # main links
 main:
-  - title: "WhaleShark"
+  - title: "About Jeff"
     url: /whaleshark/
+  #- title: "Tags"
+    #url: /aboutjeff/
   #- title: "Categories"
   #  url: /categories/
-  #- title: "Tags"
-   # url: /tags/
+  - title: "Tags"
+    url: /tags/
   #- title: "Pages"
   #  url: /page-archive/
   #- title: "Collections"
