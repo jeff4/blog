@@ -1,6 +1,6 @@
 ---
 author_profile: true
-permalink: /whaleshark/
+permalink: /about/
 ---
 Welcome to my personal blog!
 
