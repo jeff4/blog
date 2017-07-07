@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "The magic is in the process"
-tags: whaleshark tech product-mgt
+tags: tech product-mgt
 category:
 ---
 It's frequently said in Silicon Valley that good ideas are easy but execution is hard. When building products, practical experimentation is more important than pure imagination.

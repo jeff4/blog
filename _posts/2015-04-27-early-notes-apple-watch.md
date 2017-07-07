@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Early notes on the Apple Watch"
-tags: whaleshark tech
+tags: tech apple
 category:
 ---
 My Apple Watch arrived today! A few quick notes:

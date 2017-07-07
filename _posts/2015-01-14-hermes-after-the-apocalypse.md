@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Hermès after the apocalypse: 4 types of performance for consumer products"
-tags: whaleshark tech
+tags: tech apple marketing
 category:
 ---
 

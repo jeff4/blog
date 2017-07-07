@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Happy 10th birthday Gmail!"
-tags: whaleshark tech product-mgt
+tags: google tech product-mgt
 category:
 ---
 Gmail celebrated it's 10th birthday yesterday -- April 1st, 2014.  It's hard to remember how revolutionary Gmail was at the time. *Time* published [an excellent retrospective](http://time.com/43263/gmail-10th-anniversary/) which quotes the current Google PM:
