@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Brand as a lighthouse"
-tags: whaleshark tech
+tags: whaleshark tech marketing
 category:
 ---
 While having coffee with a friend last week, we got to talking about why brands are important. And more significantly, when are they not important? Many marketers assume that brands are always important.
