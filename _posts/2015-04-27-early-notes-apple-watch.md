@@ -2,7 +2,7 @@
 layout: single
 title: "Early notes on the Apple Watch"
 tags: whaleshark tech
-category: whaleshark
+category:
 ---
 My Apple Watch arrived today! A few quick notes:
 

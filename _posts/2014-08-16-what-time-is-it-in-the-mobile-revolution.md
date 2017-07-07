@@ -2,7 +2,7 @@
 layout: single
 title: "What time is it in the mobile revolution?"
 tags: whaleshark tech
-category: whaleshark
+category:
 ---
 The "mobile revolution" is a term I dislike.  It's like saying the "jet travel revolution" or the "electricity revolution" at this point.  It should be baked into all of our business assumptions. But until we have a better phrase, I'll keep using that term.  
 

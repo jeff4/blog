@@ -2,7 +2,7 @@
 layout: single
 title: "Hermès after the apocalypse: 4 types of performance for consumer products"
 tags: whaleshark tech
-category: whaleshark
+category:
 ---
 
 Is classical [disruption theory](http://en.wikipedia.org/wiki/Disruptive_innovation#The_theory) good at explaining consumer markets?  In this piece from late 2013,  [Ben Thompson said no](http://stratechery.com/2013/clayton-christensen-got-wrong/).
