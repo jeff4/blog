@@ -13,10 +13,7 @@ There is a bit of overlap between these goals. For example, a capitalist society
 
 But overall, the reason we have such contentious debates about college is that people disagree about the fundamental aims of college. Off the top of my head, I can list controversies around [for-profit universities](http://www.bloomberg.com/news/articles/2012-10-25/the-long-and-controversial-history-of-for-profit-colleges), whether MBA programs—even [Harvard Business School](http://poetsandquants.com/2014/03/21/hbs-bold-entry-into-the-digital-market/)—will be [disrupted by some version of online education](http://www.nytimes.com/2014/06/01/business/business-school-disrupted.html), and the [Thiel Fellows](http://en.wikipedia.org/wiki/Thiel_Fellowship) who are encouraged to drop out of school. These debates are especially fierce as tuition and student loans have soared faster than core inflation over the last several decades.
 
-Four years ago, [Louis Menand](http://en.wikipedia.org/wiki/Louis_Menand) wrote [an excellent article in the New Yorker](http://www.newyorker.com/magazine/2011/06/06/live-and-learn-louis-menand) that helped tease out three different theories of college education. I would carve up these types of theories differently, but I'll save that for a future post. As Menand writes: 
-
-
-For now, let me quote and summarize his taxonomy
+Four years ago, [Louis Menand](http://en.wikipedia.org/wiki/Louis_Menand) wrote [an excellent article in the New Yorker](http://www.newyorker.com/magazine/2011/06/06/live-and-learn-louis-menand) that helped tease out three different theories of college education. I would carve up these types of theories differently, but I'll save that for a future post. For now, let me quote and summarize his taxonomy
 
 ## Theory 1: Meritocracy and Hogwarts sorting hat
 
