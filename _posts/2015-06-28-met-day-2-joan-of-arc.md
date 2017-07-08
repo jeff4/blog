@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Met Day 2: Joan of Arc"
-tags: met nyc
+tags: met nyc travel
 ---
 One of my go-to paintings in the Met is [Joan of Arc](http://metmuseum.org/toah/works-of-art/89.21.1) by [Jules Bastien-Lepage](https://en.wikipedia.org/wiki/Jules_Bastien-Lepage). I have visited the Met probably a dozen times since the turn of the millennium. Each visit, I have made a point of always stopping by the main hall of later European Paintings to pay my respects to Joan. 
 

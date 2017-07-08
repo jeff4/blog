@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Accademia Part 2: David"
-tags: accademia florence art 
+tags: accademia florence art travel
 ---
 
 The main draw of [the Accademia][0] is of course [Michelangelo's _David_][1], one of the greatest works in 35 centuries of Western art. I remember my first reactions to other treasures of Western Civilization such as reading Hamlet for the first time in high school or glimpsing the Mona Lisa in Paris in my twenties. These works have been lauded, represented, and re-mixed so often in traditional and popular culture so much that no one raised with modern media in the West truly experiences them for the first time. And truthfully, some of these works are disappointing in person. The weight these expectations can be insurmountable.

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Met Day 4: Joan in space and time"
-tags: met nyc
+tags: met nyc travel
 ---
 I didn't have a chance to write up my notes earlier. Here I talk about how Joan relates to space and time in the painting.
 

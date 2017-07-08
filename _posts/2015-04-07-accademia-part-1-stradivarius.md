@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Accademia Part 1: Stradivarius"
-tags: accademia florence art 
+tags: accademia florence art travel
 ---
 
 Today, I crossed the street from my Airbnb on Via Ricasoli to the [Accademia Gallery or Galleria dell'Accademia](http://en.wikipedia.org/wiki/Galleria_dell'Accademia). The Accademia is most famous as the home of [Michaelangelo's *David*](http://en.wikipedia.org/wiki/David_(Michelangelo)). I'll have a post up with my observations on *David* in the next few days. 

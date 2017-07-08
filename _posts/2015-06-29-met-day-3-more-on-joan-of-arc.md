@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Met Day 3: Joan Is Not Usually My Type"
-tags: met nyc
+tags: met nyc travel
 ---
 Today was my last visit to Joan of Arc for a while. Over the next few posts, I'll explore why this painting is interesting.
 

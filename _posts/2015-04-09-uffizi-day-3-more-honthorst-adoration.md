@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Uffizi Day 3: A New Theory for the Tooth Puller"
-tags: uffizi honthorst florence art
+tags: uffizi honthorst florence art travel
 ---
 After visiting the Accademia on Tuesday morning, I spent the afternoon at the Uffizi again.  (I *love* this Friends of Uffizi card with unlimited repeat visits.) Upon reviewing Honthorst's Adoration of the Shephards again, I have additional thoughts. First, here is the wall text:
 

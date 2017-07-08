@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Apple Maps is better than Google Maps"
-tags: apple tech
+tags: apple tech travel
 ---
 This sentence has never before been written: **Apple Maps is now superior to Google Maps.** And it's all because of Apple Watch.
 

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Epic 34-hour journey from Killarney to Florence
-tags: florence misc
+tags: florence misc travel
 ---
 
 OK, it's taken me 34 hours to get from my [conference hotel](http://www.theeurope.com) in Ireland to my AirBnB in Florence. **tl;dr:** *it was a multi-step pain in the ass but I got to Italy eventually.*

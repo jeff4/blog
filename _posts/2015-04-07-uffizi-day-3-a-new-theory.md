@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Uffizi Day 3: A New Theory for the Tooth Puller"
-tags: uffizi caravaggio florence art
+tags: uffizi caravaggio florence art travel
 ---
 
 I revisited [Caravaggio's Tooth Puller](/blog/2015/04/04/uffizi-day-2-caravaggio-toothpuller) again today and I got a crazy idea. Skip to the bottom of the post to read my speculation. First, here's the wall text written by the exhibit's curators:

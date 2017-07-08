@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Uffizi Day 2: Gherardo delle Notti"
-tags: uffizi honthorst florence art
+tags: uffizi honthorst florence art travel
 ---
 
 During my visit to the Uffizi today, I focused on the special exhibition they have organized called [Gherardo delle Notti: Bizarre Paintings and Merry Suppers](http://www.theflorentine.net/articles/article-view.asp?issuetocId=9822). It is a one-man show devoted to the Dutch Golden Age painter [Gerrit (or Gerard) von Honthorst](http://en.wikipedia.org/wiki/Gerard_van_Honthorst) who spent 5 years in Rome in his 20's. During his time in Italy, he earned the nickname **Gherardo delle Notti** or "Gerard of the Night" because of his work depicting artificial light in night time scenes. This is the most complete collection of his work ever publicly displayed. 
