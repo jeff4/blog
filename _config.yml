@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : "Jeff Hwang"
 description              : "Human Learning | Machine Learning"
 url                      : #"https://www.jeffhwang.me/"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : /blog
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
