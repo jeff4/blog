@@ -172,7 +172,7 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:title/
+permalink: /blog/:categories/:title/
 paginate: 10 # amount of posts to show
 paginate_path: /page:num/
 timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -210,10 +210,10 @@ whitelist:
 #  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
 #  - <base_path/my-awesome-category/index.html ~> path: /
 category_archive: 
-  path: /categories/
+  path: /blog/categories/
   type: liquid
 tag_archive: 
-  path: /tags/
+  path: /blog/tags/
   type: liquid
 # https://github.com/jekyll/jekyll-archives
 jekyll-archives:
@@ -241,7 +241,7 @@ tag_page_dir: tag
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "/blog"
       type: posts
     values:
       layout: single
@@ -252,7 +252,7 @@ defaults:
       related: true
   # _pages
   - scope:
-      path: ""
+      path: "/blog"
       type: pages
     values:
       layout: single
