@@ -83,7 +83,7 @@ author:
   bio              : "Human Learning | Machine Learning "
   #location         : "Seattle, WA"
   email            :
-  uri              : "/about/"
+  #uri              : "/about/"
   bitbucket        :
   codepen          :
   dribbble         :
