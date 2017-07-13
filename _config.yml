@@ -8,8 +8,8 @@ theme                    : "minimal-mistakes-jekyll"
 
 # Site Settings
 locale                   : "en"
-title                    : "Home"
-title_separator          : "-"
+title                    : "Jeff Hwang"
+title_separator          : "|"
 name                     : "Jeff Hwang"
 description              : "Human Learning | Machine Learning"
 url                      : #"https://www.jeffhwang.me/"
@@ -172,7 +172,7 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:title/
+permalink: /blog/:year/:title/
 paginate: 10 # amount of posts to show
 paginate_path: /page:num/
 timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -209,10 +209,10 @@ whitelist:
 #  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
 #  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
 #  - <base_path/my-awesome-category/index.html ~> path: /
-category_archive: 
+category_archive:
   path: /categories/
   type: liquid
-tag_archive: 
+tag_archive:
   path: /tags/
   type: liquid
 # https://github.com/jekyll/jekyll-archives
