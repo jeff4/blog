@@ -10,7 +10,7 @@ theme                    : "minimal-mistakes-jekyll"
 locale                   : "en"
 title                    : "Home"
 title_separator          : "|"
-name                     : "Jeff"
+name                     : "Jeff Hwang"
 description              : "Human Learning | Machine Learning"
 url                      : #"http://www.jeffhwang.me"
 baseurl                  : #"/blog"
@@ -83,7 +83,7 @@ author:
   bio              : "Human Learning | Machine Learning "
   #location         : "Seattle, WA"
   email            :
-  #uri              : "https://www.jeffhwang.me/"
+  uri              : "/about/"
   bitbucket        :
   codepen          :
   dribbble         :
