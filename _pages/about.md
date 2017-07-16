@@ -1,6 +1,7 @@
 ---
 author_profile: true
 permalink: /about/
+title: test2
 ---
 Welcome to my personal blog!
 
