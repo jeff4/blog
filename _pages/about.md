@@ -1,7 +1,7 @@
 ---
 author_profile: true
 permalink: /about/
-title: test2
+title: About me | site.name
 ---
 Welcome to my personal blog!
 
