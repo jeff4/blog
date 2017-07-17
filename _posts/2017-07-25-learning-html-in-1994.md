@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Learning HTML in 1994"
-tags: tech machine-learning tech-industry-history
+tags: tech machine-learning tech-industry-history math
 ---
 
 I began researching machine learning in a serious way [last December](/blog/2016/springtime-for-machine-learning/). Rather than a somewhat straightforward transition like applying my marketing background to an AI-powered product, I've been diving into the fundamental math that underlies machine learning.
