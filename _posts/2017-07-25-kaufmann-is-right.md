@@ -3,9 +3,11 @@ layout: single
 title: "Kaufmann is right"
 tags: tech machine-learning biology
 ---
-There's been a bit of kerfluffle the last few days between "AI optimists" like Mark Zuckerberg and "pessimists" like Elon Musk. As a side-note, I think pessimism is better defined as "thinking AI is overhyped" versus "Skynet is going to enslave/exterminate mankind". Maybe AI doomsaying or apocalypticism.
+There's been a [bit of kerfluffle](https://techcrunch.com/2017/07/25/elon-musk-mark-zuckerberg-artificial-intelligence/) the last few days between "AI optimists" like Mark Zuckerberg and "pessimists" like Elon Musk. 
 
-I'd call myself a pessimist because despite the amazing research advances of the last few years (especially related to deep learning), I think that many people underestimate how much work is still needed to make AI systems useful or accessible in the wider world. Over the next decade and half-century after that,  AI will prove that it is a foundational technology  but before then, many AI systems will be very limited at best. At some point, I need to write an article about narrow AI versus Artificial General Intelligence.
+Personally, I think pessimism is better defined as "thinking AI is overhyped" versus "Skynet is going to enslave/exterminate mankind". I'm trying to think of a less perjorative term for Musk's position (which is shared by Stephen Hawking and others) but I keep coming up with unfairly dismissive labels like "AI alarmism".
+
+In any case, I'd call myself a pessimist because despite the amazing research advances of the last few years (especially in deep learning), I think that many people underestimate how much work is still needed to make AI systems useful or accessible in the wider world. Over the next decade and for many years after that,  AI will prove that it is a foundational technology. But for at least the next few years, AI systems will only be effective in very limited domains. They may be shockingly effective in those domains like 19x19 Go or language translation. But I'm not worried about the need for [Butlerian Jihad](https://en.wikipedia.org/wiki/Butlerian_Jihad) anytime soon.
 
 This mini-debate between Musk and Zuckerberg did inspire a thoughtful [Techcrunch article](https://techcrunch.com/2017/07/25/artificial-intelligence-is-not-as-smart-as-you-or-elon-musk-think/) by Ron Miller. The most interesting aspect is this quote:
 
