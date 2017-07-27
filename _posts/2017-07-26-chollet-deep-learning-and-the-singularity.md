@@ -4,7 +4,7 @@ title: "Chollet, Deep Learning, and The Singularity "
 tags: tech machine-learning math
 ---
 
-[François Chollet](https://twitter.com/fchollet) is the creator of [Keras](https://keras.io), the popular open-source neural network Python library that runs on top of [TensorFlow](https://www.tensorflow.org/), [CNTK](https://docs.microsoft.com/en-us/cognitive-toolkit/), and [Theano](http://deeplearning.net/software/theano/introduction.html). Last week, he published articles about the [current limitations of](https://blog.keras.io/the-limitations-of-deep-learning.html) and [future prospects for](https://blog.keras.io/the-future-of-deep-learning.html)  deep learning. 
+[François Chollet](https://softwareengineeringdaily.com/2016/01/29/deep-learning-and-keras-with-francois-chollet/) is the creator of [Keras](https://keras.io), the popular open-source neural network Python library that runs on top of [TensorFlow](https://www.tensorflow.org/), [CNTK](https://docs.microsoft.com/en-us/cognitive-toolkit/), and [Theano](http://deeplearning.net/software/theano/introduction.html). Last week, he published articles about the [current limitations of](https://blog.keras.io/the-limitations-of-deep-learning.html) and [future prospects for](https://blog.keras.io/the-future-of-deep-learning.html)  deep learning. 
 
 Chollet emphasizes that [all deep learning systems require](https://blog.keras.io/the-limitations-of-deep-learning.html):
 
@@ -19,7 +19,7 @@ I had earlier understood that (4) was required during the neural net training ph
 Chollet writes a beautifully concise description here: 
 >That's the magic of deep learning: turning meaning into vectors, into geometric spaces, then incrementally learning complex geometric transformations that map one space to another. All you need are spaces of sufficiently high dimensionality in order to capture the full scope of the relationships found in the original data.
 
-Deep learning has accomplished amazing feats when tasks are amenable to the above conditions. Many problems fit these criteria, especially in the areas of artificial vision, speech recognition, translation, and natural language processing. But those problems only comprise a small subset of phenomena in the world. [Chollet posits](https://blog.keras.io/the-limitations-of-deep-learning.html) that reasoning, abstraction, and what he terms "extreme generalization" are not amenable to straightforward deep learning.
+Deep learning has accomplished amazing feats when projects fit the above conditions. Tasks that meet these criteria include artificial vision, speech recognition, translation, and natural language processing. But those problems only comprise a small subset of phenomena in the world. [Chollet posits](https://blog.keras.io/the-limitations-of-deep-learning.html) that reasoning, abstraction, and what he terms "extreme generalization" are not amenable to straightforward deep learning.
 
 His article explains why huge theoretical and engineering breakthroughs are still required to build  Artificial General Intelligence much less any super-intelligence has the capacity to speed us through [the singularity](https://en.wikipedia.org/wiki/Technological_singularity).
 
