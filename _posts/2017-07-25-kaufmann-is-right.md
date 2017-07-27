@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Kaufmann is right"
-tags: tech machine-learning biology
+tags: tech machine-learning biology facebook
 ---
 There's been a [bit of kerfluffle](https://techcrunch.com/2017/07/25/elon-musk-mark-zuckerberg-artificial-intelligence/) the last few days between "AI optimists" like Mark Zuckerberg and "pessimists" like Elon Musk. 
 

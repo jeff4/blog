@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Kai-Fu Lee and Augmented Intelligence"
-tags: tech machine-learning art
+tags: tech machine-learning art google microsoft
 ---
 [Kai-Fu Lee](https://en.wikipedia.org/wiki/Kai-Fu_Lee) begins his Wired article [*A Blueprint for Coexistence with Artificial Intelligence*](https://www.wired.com/story/a-blueprint-for-coexistence-with-artificial-intelligence/) with a very personal opening. In 2013, Lee was diagnosed with late-stage lymphoma and "one of [his] strongest feelings was an instant, irretrievable, and painful regret...I was wracked with remorse over not spending more time sharing love with the people I cared about most."
 
