@@ -17,9 +17,7 @@ To make things worse, there are two additional requirements for deep learning as
 I had earlier understood that (4) was required during the neural net training phase to make optimization via gradient descent (or other methods) possible via differentiation. But I didn't realize that the entire operation from input to output needed to itself be differentiable. (This is probably obvious to mathematicians!)
 
 Chollet writes a beautifully concise description here: 
-
 >That's the magic of deep learning: turning meaning into vectors, into geometric spaces, then incrementally learning complex geometric transformations that map one space to another. All you need are spaces of sufficiently high dimensionality in order to capture the full scope of the relationships found in the original data.
-
 Deep learning has accomplished amazing feats when tasks are amenable to the above conditions. Many problems fit these criteria, especially in the areas of artificial vision, speech recognition, translation, and natural language processing. But those problems only comprise a small subset of phenomena in the world. Chollet [writes](https://blog.keras.io/the-limitations-of-deep-learning.html) that reasoning, abstraction, and what he terms "extreme generalization" are not amenable to straightforward deep learning.
 
 His [article](https://blog.keras.io/the-limitations-of-deep-learning.html) explains why huge theoretical and engineering breakthroughs are still required to ever build  Artificial General Intelligence or any super-intelligence that will be able to speed us through [the singularity](https://en.wikipedia.org/wiki/Technological_singularity).
