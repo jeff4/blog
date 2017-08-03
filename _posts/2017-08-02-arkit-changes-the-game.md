@@ -25,6 +25,6 @@ Developer excitement is palpable. [These demos](http://www.madewitharkit.com) sh
 *Reminder: I am an employee of Microsoft but this post–like everything published on my blog–reflect my personal views only; these opinions do  **not** reflect the views of my employer.*
 
 ---
-<sup id="fn1">1. The [WWDC demo](https://www.youtube.com/watch?v=oaqHdULqet0) is well worth watching. It's only 5 minutes long and starts 1:25:30 into the keynote.<a href="#ref1" title="Return to text.">↩</a></sup>
+<sup id="fn1">1. The [WWDC ARkit demo](https://www.youtube.com/watch?v=oaqHdULqet0) is well worth watching. It's only 5 minutes long and starts 1:25:30 into the keynote.<a href="#ref1" title="Return to text.">↩</a></sup>
 
 
