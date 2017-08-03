@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "ARkit Changes the Game"
-tags: apple tech google ar vr facebook
+tags: apple tech google ar vr facebook microsoft
 ---
 
 [Facebook](https://en.wikipedia.org/wiki/Oculus_VR), [Google](https://en.wikipedia.org/wiki/Tango_(platform)), [Microsoft](https://www.microsoft.com/en-us/hololens), and [MagicLeap](https://en.wikipedia.org/wiki/Magic_Leap) have all made public and significant investments in [augmented reality](https://en.wikipedia.org/wiki/Augmented_reality) / [virtual reality](https://en.wikipedia.org/wiki/Virtual_reality) (AR/VR) over the last few years. Apple skeptics have kvetched that Cupertino was falling behind in AR/VR.
