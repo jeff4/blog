@@ -4,7 +4,7 @@ title: "ARkit Changes the Game"
 tags: apple tech google ar vr facebook
 ---
 
-[Facebook](https://en.wikipedia.org/wiki/Oculus_VR), [Google](https://en.wikipedia.org/wiki/Tango_(platform)), [Microsoft](https://www.microsoft.com/en-us/hololens), and [MagicLeap](https://en.wikipedia.org/wiki/Magic_Leap) have all made public and significant investments in augmented reality and virtual reality (AR/VR) over the last few years. Apple skeptics have kvetched that Cupertino was falling behind in AR/VR.
+[Facebook](https://en.wikipedia.org/wiki/Oculus_VR), [Google](https://en.wikipedia.org/wiki/Tango_(platform)), [Microsoft](https://www.microsoft.com/en-us/hololens), and [MagicLeap](https://en.wikipedia.org/wiki/Magic_Leap) have all made public and significant investments in [augmented reality](https://en.wikipedia.org/wiki/Augmented_reality) / [virtual reality](https://en.wikipedia.org/wiki/Virtual_reality) (AR/VR) over the last few years. Apple skeptics have kvetched that Cupertino was falling behind in AR/VR.
 
 They needn't have worried.
 
@@ -26,6 +26,6 @@ But Apple is ahead of everyone partly because of first-rate hardware-software in
 
 *Reminder: While I am an employee of Microsoft this post–like everything published on my blog–reflect my personal views only; these opinions do  **not** reflect the views of my employer.*
 
-<sup id="fn1">1. The [WWDC demo](https://www.youtube.com/watch?v=oaqHdULqet0) is well worth watching. It's only 5 minutes long and starts 1:25 into the keynote.<a href="#ref1" title="Return to text.">↩</a></sup>
+<sup id="fn1">1. The [WWDC demo](https://www.youtube.com/watch?v=oaqHdULqet0) is well worth watching. It's only 5 minutes long and starts 1:25:30 into the keynote.<a href="#ref1" title="Return to text.">↩</a></sup>
 
 
