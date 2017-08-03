@@ -14,17 +14,6 @@ Sinofsky and Vic Gundotra have both competed and succeeded against Apple at Micr
 
 In a related bit of news, Vic Gundotra wrote this surprising Facebook post
 
-
-* A reminder that I am an employee of Microsoft but this piece–like all posts on this blog–reflect my personal views only; these opinions do  **not** reflect the views of my employer.
-
-
-***
-<sup id="fn1">1. The demo is well worth watching. It's only 5 minutes long and starts 1:25 into the [video](https://www.youtube.com/watch?v=oaqHdULqet0).<a href="#ref1" title="Return to text.">↩</a></sup>
-
-
-
-<sup id="fn2">2. For great examples, The [Made With ARKit Twitter account]() is unaffiliated with Apple and gained tens of thousands of followers within a few days of its launch in June.<a href="#ref2" title="Return to text.">↩</a></sup>
-
-
 ***
 
+*Reminder: I am an employee of Microsoft but this post–like everything published on my blog–reflect my personal views only; these opinions do  **not** reflect the views of my employer.*

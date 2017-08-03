@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Relational Database Systems and AI"
-tags: tech machine-learning tech-industry-history
+tags: tech machine-learning tech-history
 ---
 
 Last summer,  [Frank Chen](https://a16z.com/author/frank-chen/) at [Andreessen Horowitz](https://a16z.com/) delivered an excellent introduction and [history of AI](http://a16z.com/2016/06/10/ai-deep-learning-machines/).
