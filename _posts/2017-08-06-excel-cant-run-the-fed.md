@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Excel Can't Be Fed Chair"
+title: "Excel Can't Run the Fed"
 tags: tech machine-learning
 ---
 
