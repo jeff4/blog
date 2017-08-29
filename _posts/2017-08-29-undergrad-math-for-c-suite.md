@@ -8,7 +8,7 @@ As I've mentioned [before](/blog/2017/learning-html-in-1994/), I've spent a lot 
 
 I have increasing confidence in my thesis that AI is going to impact the tech industry as significantly as the web did. Furthermore, while learning about HTML, HTTP, and WWW in 1995 was accessible to new users who had access to a modem and a PC, AI is a little different. In order to engage with AI productively, one needs to learn some undergraduate math.
 
-Two small tidbits that support my thought that businesspeople, not just engineers or technical leaders need to get grounding in math in order to evaluate and use AI effectively.
+Two small tidbits that support my thought that businesspeople– not just engineers or technical leaders–need better grounding in math in order to evaluate and use AI effectively.
 
 In the most recent version of their [Machine Intelligence Landscape](https://www.oreilly.com/ideas/the-current-state-of-machine-intelligence-3-0) from 2016, [Shivon Zilis](https://twitter.com/shivon) and my friend [James Cham](https://twitter.com/jamescham) write:
 
