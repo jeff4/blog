@@ -3,7 +3,7 @@ layout: single
 title: "Uffizi Day 2: Caravaggio's Tooth Puller"
 tags: uffizi caravaggio florence art travel
 ---
-[Caravaggio](http://en.wikipedia.org/wiki/Caravaggio) (1571-1610) was only 39 when he died. Since much of [the Gherardo delle Notti exhibit](/blog/2015/04/04/uffizi-day-2-gherardo-delle-notti) describes the lessons Honthorst learned from Caravaggio, I was surprised to learn that Honthorst was only 20 years younger. But then I remembered a 21-year-old I met recently was truly so much younger than me. It's easy to forget when looking across centuries that someone born in 1571 is actually much more experienced than someone born in 1592. 
+[Caravaggio](http://en.wikipedia.org/wiki/Caravaggio) (1571-1610) was only 39 when he died. Since much of [the Gherardo delle Notti exhibit](/blog/2015/uffizi-day-2-gherardo-delle-notti) describes the lessons Honthorst learned from Caravaggio, I was surprised to learn that Honthorst was only 20 years younger. But then I remembered a 21-year-old I met recently was truly so much younger than me. It's easy to forget when looking across centuries that someone born in 1571 is actually much more experienced than someone born in 1592. 
 
 The only Caravaggio I've seen today is [his "Tooth Puller"](http://en.wikipedia.org/wiki/Paintings_attributed_to_Caravaggio#The_Tooth_Puller) from 1609, usually located in the Palazzo Pitti here in Florence. Things that struck me:
 
