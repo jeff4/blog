@@ -4,11 +4,11 @@ title: "Uffizi Day 3: A New Theory for the Tooth Puller"
 tags: uffizi caravaggio florence art travel
 ---
 
-I revisited [Caravaggio's Tooth Puller](/blog/2015/04/04/uffizi-day-2-caravaggio-toothpuller) again today and I got a crazy idea. Skip to the bottom of the post to read my speculation. First, here's the wall text written by the exhibit's curators:
+I revisited [Caravaggio's Tooth Puller](/blog/2015/uffizi-day-2-caravaggio-toothpuller) again today and I got a crazy idea. Skip to the bottom of the post to read my speculation. First, here's the wall text written by the exhibit's curators:
 
 >The Tooth Puller is the painting by Caravaggio most mentioned in the Medici collections in 17th-century Florence. Caravaggio probably painted it in Messina in 1609 for Antonio Martelli, a Florentine knight of Malta and the Prior of Messina who may well have brought it back to Florence with him on his return to the city and offered it as a gift to Grand Duke Cosimo II. The picture undoubtedly played a crucial role in fueling **the grand duke's passion for collecting convivial scenes**. (Emphasis mine.)
 
-Some new observations to add to [my previous thoughts](/blog/2015/04/04/uffizi-day-2-caravaggio-toothpuller):
+Some new observations to add to [my previous thoughts](/blog/2015/uffizi-day-2-caravaggio-toothpuller):
 
 * It takes a different mindset than mine to see a man in a lot of pain while a crowd gathers round as a "convivial scene".
 * That said, I can understand this painting being popular as it is very interesting and beautifully executed. [This photo](http://en.wikipedia.org/wiki/Paintings_attributed_to_Caravaggio#/media/File:Toothpuller.jpg) does not do justice to the texture of the wrinkled skin on the old woman on the right or the bald man center left.
