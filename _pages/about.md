@@ -3,6 +3,8 @@ author_profile: true
 permalink: /about/
 title: Welcome to my blog
 ---
-I have more than [15 years of experience](https://www.linkedin.com/in/jeffhwang) as a product manager and tech marketer at [Microsoft](https://www.microsoft.com/), [Amazon](https://www.amazon.com/), [Box](https://www.box.com/home), and several startups. I currently work with the Microsoft developer marketing team but my writings here reflect my own opinions and not those of my employer.
+I have more than [17 years of experience](https://www.linkedin.com/in/jeffhwang) as a product manager and tech marketer at [Microsoft](https://www.microsoft.com/), [Amazon](https://www.amazon.com/), [Box](https://www.box.com/home), and several startups. 
 
-Artificial intelligence has come a long way from when I started learning about neural networks in the 1990's. I'm planning on writing more about machine learning and other topics throughout 2017 and beyond.
+As part of my undergraduate degree in biology from [Harvard](https://lifesciences.fas.harvard.edu), I studied cognitive neuroscience and first learned about [artificial neural networks](https://mitpress.mit.edu/books/parallel-distributed-processing). AI has certainly come a long way since then! Later, I got an  MBA from [MIT](http://mitsloan.mit.edu), where I got to do fun stuff like [HCI](https://en.wikipedia.org/wiki/Human–computer_interaction) and computational biology in [Course 6](http://catalog.mit.edu/subjects/6/) .
+
+Currently taking a personal sabbatical to study some math fundamentals with the goal of developing a more rigorous understanding of deep neural networks.
