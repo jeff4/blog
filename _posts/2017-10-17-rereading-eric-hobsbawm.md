@@ -12,5 +12,5 @@ I first read *The Age of Revolution* on it's 35th anniversary and in some ways i
 
 I picked up *The Age of Revolutions* again recently as a refresher before I read more deeply about the French Revolution. Beyond learning more about events 200 year ago, this exercise in re-reading Hobsbawm has put me in a contemplative mood. The Age of Revolutions is now 55 years old.  Historiography has evolved a lot in the last half-century.<sup><a href="#fn1" id="ref1">1</a></sup> More personally, it's startling to think about how I'm a different person than I was 20 years ago when I first read Hobsbawm.
  
- ---
+---
 <sup id="fn1">1. Nicely examined by Matt Karp in this [review of *Revolution*](https://earlyamericanists.com/2013/02/07/a-very-old-book-the-case-for-eric-hobsbawms-age-of-revolution/) by [Matt Karp](http://www.hup.harvard.edu/catalog.php?isbn=9780674737259).  I'm planning on getting to Karp's [Vast Southern Empire](http://www.hup.harvard.edu/catalog.php?isbn=9780674737259) someday.
