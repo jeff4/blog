@@ -1,0 +1,16 @@
+---
+layout: single
+title: "Re-reading Eric Hobsbawm"
+tags: history
+---
+
+The British Marxist historian Eric Hobsbawm was born in 1917 and by the [end of his long life at in 2012](https://www.theguardian.com/books/2012/oct/01/eric-hobsbawm), "he became arguably Britain's most respected historian of any kind, recognised if not endorsed on the right as well as the left, and one of a tiny handful of historians of any era to enjoy genuine national and world renown." 
+
+Hobsbawm published the classic [*The Age of Revolution, 1789-1848*](https://en.wikipedia.org/wiki/The_Age_of_Revolution:_Europe_1789–1848) in 1962. It was the first volume of a [trilogy](https://en.wikipedia.org/wiki/The_Age_of_Capital:_1848–1875) of [books](https://en.wikipedia.org/wiki/The_Age_of_Empire:_1875–1914) about 19th century Europe that introduced the concept of the ["long 19th-century"](https://en.wikipedia.org/wiki/Long_nineteenth_century) lasting from the French Revolution in 1789 to the beginning of World War I in 1914.
+
+I first read *The Age of Revolution* on it's 35th anniversary and in some ways it taught me more about Europe than I learned in both high school and college. Hobsbawm's trilogy  (along with his fourth volume on the ["short 20th-century"](https://en.wikipedia.org/wiki/Short_twentieth_century)  [The Age of Extremes, 1914-1991](https://en.wikipedia.org/wiki/The_Age_of_Extremes)) had a big impact on my intellectual development when when I was coming of age. Throughout the 2000's, I became focused on other historical topics like [the American Civil War](http://oyc.yale.edu/history/hist-119), [slavery](https://global.oup.com/ushe/product/inhuman-bondage-9780195140736?cc=us&lang=en&), race, and [peace and nonviolence in the 20th century](https://en.wikipedia.org/wiki/The_Unconquerable_World). As such, I lost track of Hobsbawm and didn't realize that he published an an [autobiography in 2002](https://www.theguardian.com/books/2002/oct/12/featuresreviews.guardianreview4) and [*How to Change the World: Tales of Marx and Marxism*](https://www.theguardian.com/books/2011/jan/22/change-world-marx-eric-hobsbawm-review) in 2011–at the age of 94!
+
+I picked up *The Age of Revolutions* again recently as a refresher before I read more deeply about the French Revolution. Beyond learning more about events 200 year ago, this exercise in re-reading Hobsbawm has put me in a contemplative mood. The Age of Revolutions is now 55 years old.  Historiography has evolved a lot in the last half-century.<sup><a href="#fn1" id="ref1">1</a></sup> More personally, it's startling to think about how I'm a different person than I was 20 years ago when I first read Hobsbawm.
+ 
+ ---
+<sup id="fn1">1. Nicely examined by Matt Karp in this [review of *Revolution*](https://earlyamericanists.com/2013/02/07/a-very-old-book-the-case-for-eric-hobsbawms-age-of-revolution/) by [Matt Karp](http://www.hup.harvard.edu/catalog.php?isbn=9780674737259).  I'm planning on getting to Karp's [Vast Southern Empire](http://www.hup.harvard.edu/catalog.php?isbn=9780674737259) someday.
