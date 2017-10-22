@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Undergrad math for the C-Suite"
+title: "Undergrad Math for the C-Suite"
 tags: tech machine-learning math
 ---
 
