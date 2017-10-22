@@ -4,8 +4,6 @@ title: "Histories of Deep Learning"
 tags: tech machine-learning
 ---
 
-Here is a round-up of some good histories of deep learning. 
-
 [Andrey Kurenkov](http://www.andreykurenkov.com) [wrote](http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning/) a [four](http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning-part-2/)-[part](http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning-part-3/) [series](http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning-part-4/) that provides an excellent overview of the field and the dramatic improvements that have occurred since 2006. This series was written in late 2015 and I still find it very valuable.
 
 In May, 2015, Yann LeCun, Yoshua Bengio, and Geoffrey Hinton co-authored [a review article in Nature](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html). They are three of the most well-known names in artificial intelligence research. [LeCun](https://en.wikipedia.org/wiki/Yann_LeCun) is at NYU and heads [FAIR](https://research.fb.com/people/lecun-yann/) at Facebook , [Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton) is at University of Toronto and Google, and [Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/) teaches at Université de Montréal. Along with Ian Goodfellow and Aaron Courville, [Bengio](https://en.wikipedia.org/wiki/Yoshua_Bengio) co-wrote [my favorite single resource on deep learning](http://www.deeplearningbook.org). 
