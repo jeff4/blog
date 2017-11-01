@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "My personal product philosophy"
+title: "My Personal Product Philosophy"
 tags: tech product-mgt
 category:
 ---
