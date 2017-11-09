@@ -11,19 +11,16 @@ For 50 years, the tech industry has been powered by [Moore's Law](https://en.wik
 
 Moore's Law is not a law of nature like Newton's laws of gravity; rather it was a historical observation and aspirational benchmark. Nevertheless, Moore's law–in comination with [Dennard scaling](https://en.wikipedia.org/wiki/Dennard_scaling#Relation_with_Moore.27s_law_and_computing_performance)–has been an essential factor in driving the tech revolution.
 
-Moore's Law [may or may not be slowing down](http://ieeexplore.ieee.org/document/8013504/), but I'm interested in other times where exponential increase has presaged technological shifts that encourage entrepreneurial activity. Two other examples come to mind related to the internet: [Metcalfe's Law](https://en.wikipedia.org/wiki/Metcalfe%27s_law) and the stunning growth of the web in the early 1990's.
+Moore's Law [may or may not be slowing down](http://ieeexplore.ieee.org/document/8013504/), but I'm interested in other times where exponential increase has presaged technological shifts that encourage entrepreneurial activity. Two other historical examples come to mind: (1) [Metcalfe's Law](https://en.wikipedia.org/wiki/Metcalfe%27s_law) and the (2) the impact of the web's stunning growth on a young Jeff Bezos.
 
-Jeff Bezos saw a research report in 1994 that predicted that the web would grow 2300% per year. He quit his lucrative Wall Street job a few months later to move to the west coast. When [Success Magazine asked him in 1998](1998 Success article -- https://www.success.com/article/from-the-archives-jeff-bezos) why he moved so quickly to found Amazon, he replied:
+In 1994, Bezos was working on Wall Street when he saw a research report predicting that the web would grow 2300% per year. Within months, he quit his lucrative hedge fund job in New York to move west and found Amazon. When [Success Magazine asked him in 1998](https://www.success.com/article/from-the-archives-jeff-bezos) why he moved so quickly, he replied:
 
 >“That figure of 2,300 percent,” he says. “That’s huge. Nothing usually grows that fast outside a petri dish. With that kind of growth rate, a sense of urgency becomes your most valuable asset.”
 
-We don't currently have a good definition of what the AI equivalent for Moore's law is. I can propose some possibilities but I suspect that most of them will be less useful than Mark Zuckerberg's attempt to coin ["Zuckerberg's Law of Information Sharing" circa 2008](https://bits.blogs.nytimes.com/2008/11/06/zuckerbergs-law-of-information-sharing/) which has [not quite taken off](https://www.fastcodesign.com/1672296/mark-zuckerberg-might-be-right-about-the-moores-law-of-sharing) in the same way as Moore's Law.
+We don't currently have a good definition of what the AI equivalent for Moore's law is. I can propose some possibilities but I suspect that most of them will be less useful than Mark Zuckerberg's 2008 coinage of [Zuckerberg's Law of Information Sharing](https://bits.blogs.nytimes.com/2008/11/06/zuckerbergs-law-of-information-sharing/) which may be true but seems less revealing than Metcalfe's or Moore's. 
 
 Regardless of the actual metric we use for AI, it would be useful to come up with something that tracks the growing breadth, depth, and power of machine intelligence as it changes every aspect of the tech industry in the decades to come.
 
 ---
 <sup id="fn1">1. In the 1970's, Moore revised the doubling period to every 18-24 months.<a href="#ref1" title="Return to text.">↩</a></sup>
-
-
-
 
