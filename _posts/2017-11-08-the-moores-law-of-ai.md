@@ -3,7 +3,7 @@ layout: single
 title: "The Moore's Law of AI"
 tags: tech-history machine-learning tech amazon facebook
 ---
-Is there an equivalent to Moore's Law to measure the explosion of interest and capability in AI? I don't have an answer but I've started asking the question. My thinking was spurred by the throwaway line in this passage from a recent article in the[MIT magazine Spectrum](https://spectrum.mit.edu/fall-2017/how-can-computers-apply-what-theyve-learned-to-new-situations/): 
+Is there an equivalent to Moore's Law for AI? I don't have an answer but I've started asking the question. My thinking was spurred by the throwaway line in the most recent issue of [*Spectrum* from MIT](https://spectrum.mit.edu/fall-2017/how-can-computers-apply-what-theyve-learned-to-new-situations/): 
 
 >The hottest ticket on the MIT campus this fall is...an undergraduate class in the Department of Electrical Engineering and Computer Science (EECS) whose humble course catalog label, 6.036, belies its exponentially growing popularity. The subject, *Introduction to Machine Learning*, was first offered in 2013 and now attracts hundreds more students than can fit into a 500-seat lecture hall. In addition to enrolling droves of EECS students, 6.036 brings in registrants from nearly every discipline MIT offers, from architecture to management. The irresistible draw? **A chance to get a jump on the most powerful driver of technology innovation since Moore’s Law.**
 
