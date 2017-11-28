@@ -6,7 +6,7 @@ category:
 ---
 I've worked on and off as a product manager at small software startups and large tech companies going back to the 90's dotcom bubble. More importantly, I've carefully observed and collaborated with a wide range of PMs–many personalities, industries, and customer segments. 
 
-The product function has evolved a ton as technology, tools, processes, and methodologies have all shifted in the last two decades. That said, my personal philosophy of product can be distilled into three critical areas.  
+The product function has evolved tremendously as technology, tools, and methodologies have all shifted in the last two decades. The responsibilities of world class product management have endured in three critical areas.
 
 A great product manager needs to deliver:
 
@@ -14,6 +14,6 @@ A great product manager needs to deliver:
 2. A **prioritized roadmap** that strikes the right balance between *stability* (to minimize churn for the design/dev teams) and *flexibility* (given the fast-changing nature of external/internal demands). A good roadmap is a living and breathing document that evolves at the appropriate pace.
 3. **Relentless execution** to deliver against the roadmap. Shit always happens but like the Terminator, a good PM keeps soldiering on. :)
 
-In addition, PMs juggle the challenging list of additional responsibilities. These include communication, coordination, business model analysis, sales support, customer support, marketing support, competitive analysis, influencing other departments/execs/partners, and more besides. 
+Finally, PMs juggle a challenging list of additional responsibilities. These include communication, coordination, business model analysis, sales support, customer support, marketing support, competitive analysis, influencing other departments/execs/partners, and more besides. All product managers strive to balance the tasks above. 
 
-All product managers strive to balance the tasks above. Great PMs distinguish themselves by pushing the envelope on vision, roadmap, and execution.
+Great PMs distinguish themselves by pushing the envelope on the three critical areas of vision, roadmap, and execution.
