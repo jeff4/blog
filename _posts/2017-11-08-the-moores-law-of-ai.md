@@ -9,7 +9,7 @@ Is there an equivalent to Moore's Law for AI? I don't have an answer but I've st
 
 For 50 years, the tech industry has been powered by [Moore's Law](https://en.wikipedia.org/wiki/Moore%27s_law). In 1965, co-founder of Intel [Gordon Moore](https://en.wikipedia.org/wiki/Gordon_Moore) observed that the number of components per integrated circuit had doubled every 12 months since the 1950's. He predicted that it would continue to do so for the next decade.<sup><a href="#fn1" id="ref1">1</a></sup> 
 
-Moore's Law is not a law of nature like Newton's laws of gravity; rather it was a historical observation and aspirational benchmark. Nevertheless, Moore's law–in comination with [Dennard scaling](https://en.wikipedia.org/wiki/Dennard_scaling#Relation_with_Moore.27s_law_and_computing_performance)–has been an essential factor in driving the tech revolution.
+Moore's Law is not a law of nature like Newton's laws of gravity; rather it was a historical observation and aspirational benchmark. Nevertheless, Moore's law–combined with [Dennard scaling](https://en.wikipedia.org/wiki/Dennard_scaling#Relation_with_Moore.27s_law_and_computing_performance)–has been an essential factor in driving the tech revolution.
 
 Moore's Law [may or may not be slowing down](http://ieeexplore.ieee.org/document/8013504/), but I'm interested in other times where exponential increase has presaged technological shifts that encourage entrepreneurial activity. Two other historical examples come to mind: (1) [Metcalfe's Law](https://en.wikipedia.org/wiki/Metcalfe%27s_law) and the (2) the impact of the web's stunning growth on a young Jeff Bezos.
 

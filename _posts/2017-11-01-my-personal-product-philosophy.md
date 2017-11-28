@@ -14,4 +14,6 @@ A great product manager needs to deliver:
 2. A **prioritized roadmap** that strikes the right balance between *stability* (to minimize churn for the design/dev teams) and *flexibility* (given the fast-changing nature of external/internal demands). A good roadmap is a living and breathing document that evolves at the appropriate pace.
 3. **Relentless execution** to deliver against the roadmap. Shit always happens but like the Terminator, a good PM keeps soldiering on. :)
 
-In addition to the critical jobs above, most product managers need to juggle a laundry list of other responsibilities. From what I've seen, these include communication, coordination, business model analysis, sales support, customer support, marketing support, competitive analysis, influencing other departments/execs/partners not already listed above, and more besides.
+In addition, PMs juggle the challenging list of additional responsibilities. These include communication, coordination, business model analysis, sales support, customer support, marketing support, competitive analysis, influencing other departments/execs/partners, and more besides. 
+
+All product managers strive to balance the tasks above. Great PMs distinguish themselves by pushing the envelope on vision, roadmap, and execution.
