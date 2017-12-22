@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Machine Learning Is A Foundational Technology: Data Structures Edition"
+title: "Learned Index Structures: Why ML is a Foundational Technology"
 tags: tech machine-learning google tech-history microsoft
 ---
 
