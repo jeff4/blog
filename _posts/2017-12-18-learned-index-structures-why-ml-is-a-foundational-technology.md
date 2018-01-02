@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Learned Index Structures: Why ML is a Foundational Technology"
-tags: tech machine-learning google tech-history microsoft
+tags: tech machine-learning google tech-history microsoft research
 ---
 
 A [recent paper published by Google Research](https://www.arxiv-vanity.com/papers/1712.01208v1/) provides more evidence that machine learning is a foundational technology that is as significant as [electrical power](http://www.slate.com/articles/arts/the_undercover_economist/2007/06/the_shock_of_the_new.html), [relational databases](/blog/2017/relational-database-systems-and-ai/), or [the internet](https://stratechery.com/2017/defining-aggregators/).

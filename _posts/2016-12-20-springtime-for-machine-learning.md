@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Springtime for machine learning"
-tags: tech machine-learning google microsoft facebook
+tags: tech machine-learning google microsoft facebook research
 ---
 As a difficult year draws to a close, I'd like to end 2016 on a hopeful note. **Machine learning has broken through to the mainstream.** In a real sense, artificial intelligence is here to stay. This is a bit surprising because AI has seen half a dozen booms and busts since the 1950's.  The cycle is so frequent that the term [AI winter](https://en.wikipedia.org/wiki/AI_winter) was coined many years before [Jackie Fenn](http://www.gartner.com/books/hype-cycle/theauthors.jsp) introduced the [Gartner hype cycle](http://foresightinvestor.com/articles/109289-gartner-s-hype-cycle) in 1995.
 
