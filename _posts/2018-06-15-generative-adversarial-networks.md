@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Generative Adversarial Networks"
-tags: tech machine-learning tech-history research
+tags: tech machine-learning research
 ---
 
 I've been reading about [Generative Adversarial Networks](https://en.wikipedia.org/wiki/Generative_adversarial_network) (GAN's) which were first introduced in this [2014 paper](https://arxiv.org/abs/1406.2661) by Ian Goodfellow et al. At that time, deep neural nets had shown some impressive advances in object identification, visual discrimination, NLP, and other tasks–especially in the context of supervised learning. But, GAN's addressed a distinct shortcoming in neural networks–they were less capable of *generating*believable images (or other types of media such as audio).
