@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Generative Adversarial Networks"
-tags: tech machine-learning research
+tags: tech machine-learning research GAN
 ---
 
 I've been reading about [Generative Adversarial Networks](https://en.wikipedia.org/wiki/Generative_adversarial_network) (GAN's) which were first introduced in this [2014 paper](https://arxiv.org/abs/1406.2661) by Ian Goodfellow et al. At that time, deep neural nets had shown some impressive advances in object identification, visual discrimination, NLP, and other tasks–especially in the context of supervised learning. But, GAN's addressed a distinct shortcoming in neural networks–they were less capable of *generating*believable images (or other types of media such as audio).
@@ -10,4 +10,4 @@ Building on previous work in [game theory](https://en.wikipedia.org/wiki/Minimax
 
 The initial 2014 paper showed promising results and has generated a wave of papers since then. I've found this [three](https://www.kdnuggets.com/2017/11/overview-gans-generative-adversarial-networks-part1.html)-[part](https://www.kdnuggets.com/2017/11/generative-adversarial-networks-part2.html) [series](https://www.kdnuggets.com/2017/11/infogan-generative-adversarial-networks-part3.html) on GANs by Zak Jost to be a helpful introduction to post-2014 developments. GANs have proven so popular that there are now hundreds of related GANs tracked at places like [GANzoo](https://github.com/hindupuravinash/the-gan-zoo).
 
-There are several more GAN papers on my reading list. First, the [2015 LAPGAN paper](https://arxiv.org/abs/1506.05751) by Denton et al which is a GAN that starts by generating a low-resolution image and uses a Laplacian pyramid to generate additional images with greater detail and increasing resolution. Second, the [2016 CGAN paper](https://arxiv.org/abs/1511.06434) on Deep Convolutional GAN's by Radford, Metz, and Chintala. Finally, the [InfoGAN paper](https://arxiv.org/abs/1606.03657) by Chen, Duan, et al. which provides a more structured understanding of the how to precisely manipulate images building on the accuracy introduced by LAPGAN's.
+There are several more GAN papers on my reading list. First, the [2015 LAPGAN paper](https://arxiv.org/abs/1506.05751) by Denton et al which is a GAN that starts by generating a low-resolution image and uses a Laplacian pyramid to generate additional images with greater detail and increasing resolution. Second, the [2016 DCGAN paper](https://arxiv.org/abs/1511.06434) on Deep Convolutional GAN's by Radford, Metz, and Chintala. Finally, the [InfoGAN paper](https://arxiv.org/abs/1606.03657) by Chen, Duan, et al. which provides a more structured understanding of the how to precisely manipulate images building on the accuracy introduced by LAPGAN's.
