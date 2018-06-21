@@ -16,6 +16,6 @@ In other words, we have an [evolutionary arms race](https://en.wikipedia.org/wik
 
  Similarly, after many rounds of play, we would expect the counterfeiter to steadily improve the quality of his fake currency and the police to get more and more effective at spotting fakes.
 
-In essence, this is how GANs work, where: (1) the mint is actually a library of real ground-truth images, (2) the counterfeiter is the "generative neural network" creating fake images that are supposed to look real, and (3) the police officer is the "discriminator neural network" that is able to accurately distinguish real images from the library versus fake images from the generator.
+In essence, this is how GANs work, where: (1) the mint is  a library of real images, (2) the counterfeiter is the "generative neural network" creating fake images that are supposed to look authentic, and (3) the police officer is the "discriminator neural network" whose job is to tell ground truth images from the library apart from the fake images from the generator net.
 
 As a side note, most versions of the counterfeiter-police analogy ignore the mint. I find it helpful to specifically call out who is producing the real money.
