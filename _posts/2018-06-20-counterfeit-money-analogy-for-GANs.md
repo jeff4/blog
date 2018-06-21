@@ -4,7 +4,7 @@ title: "Counterfeit Money As An Analogy for GANs"
 tags: tech machine-learning research GAN
 ---
 
-Based on feedback from a friend, I'm going to revisit [GANs](/blog/2018/generative-adversarial-networks/) ) in a more approachable way. This is an adaptation of the analogy introduced in the original [2014 Generative Adversarial Network paper](https://arxiv.org/abs/1406.2661) by Goodfellow et al.
+Based on feedback from a friend, I'm going to revisit [GANs](/blog/2018/generative-adversarial-networks) in a more approachable way. This is an adaptation of the analogy introduced in the original [2014 Generative Adversarial Network paper](https://arxiv.org/abs/1406.2661) by Goodfellow et al.
 
 Imagine we have a game with three players: (1) a government mint which prints legitimate money, (2) a counterfeiter which produces fake currency hoping to make some quick criminal profits, and (3) a police officer who wants to tell the difference between the real and fake currency.
 
