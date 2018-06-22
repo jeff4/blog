@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Counterfeit Money As An Analogy for GANs"
-tags: tech machine-learning research GAN
+tags: tech machine-learning research gan
 ---
 
 Based on feedback from a friend, I'm going to revisit [GANs](/blog/2018/generative-adversarial-networks/) in a more approachable way. This is an adaptation of the analogy Goodfellow et al. introduced in their original [2014 Generative Adversarial Network paper](https://arxiv.org/abs/1406.2661).
