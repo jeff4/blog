@@ -4,7 +4,7 @@ title: "GANs Part 3: CaptionDraw "
 tags: tech machine-learning research gan
 ---
 
-My recent [posts](/blog/2018/generative-adversarial-networks/) on [generative adversarial networks](/blog/2018/GANs-part-2-counterfeit-money/) (aka GANs) still feel a bit abstract. Perhaps a more concrete product idea will help. Let's call it *CaptionDraw*, a personal digital sketch artist.
+My recent [posts](/blog/2018/GANs-part-2-counterfeit-money/) on [generative adversarial networks](/blog/2018/generative-adversarial-networks/) (aka GANs) still feel a bit abstract. Perhaps a more concrete product idea will help. Let's call it *CaptionDraw*, a personal digital sketch artist.
 
 Kids love to draw, to color, to cut and to paste. Whether they're using colored pencils, construction paper, glue, or touchscreens,  children seek to express themselves visually. 
 
@@ -12,7 +12,7 @@ Let's say 6-year-old Jesse wants to tell a story about a blue unicorn and a pink
 
 Most kids don't have an Uncle Walt the way Jesse does. Though this is good for children's independent creativity and self-expression, imagine if *every* child could have their own personal Uncle Walt. That's what CaptionDraw is–a digital Uncle Walt, partly powered by GAN technology. All any child needs to do to conjure characters, monsters, scenes, and stories was to tell CaptionDraw and the program would obligingly draw realistic 2D and 3D renderings. Like a police sketch artist, CaptionDraw can reproduce something close to what a kid sees in their mind's eye. 
 
-Looking more broadly, there is a whole universe of adults who have the desire to express themselves visually but don't have the training and experience to do so. Today, communicating in high fidelity 2-D and 3-D is the province of a small set of people. This group includes the  highly trained designers and animators working in movies, animation, game studios, architecture and design firms, and various types of engineering. It also includes the many professionals and amateurs have the traditional drawing and painting skills to communicate visually. CaptionDraw could serve as a personal digital sketch artist for everyone–just as widely available, easy-to-use, high quality smartphone cameras now allow billions more people to be photographers than just a few decades before.
+Looking more broadly, there is a whole universe of adults who have the desire to express themselves visually but don't have the training and experience to do so. Today, communicating in high fidelity 2D and 3D is the province of a small set of people. This group includes the  highly trained designers and animators working in movies, animation, game studios, architecture and design firms, and various types of engineering. It also includes the many professionals and amateurs have the traditional drawing and painting skills to communicate visually. CaptionDraw could serve as a personal digital sketch artist for everyone–just as widely available, easy-to-use, high quality smartphone cameras now allow billions more people to be photographers than just a few decades before.
 
 Does CaptionDraw sound like science fiction? The core engine for the product can be glimpsed in a series of papers over the last four years. Using image processing, GANs and related neural net techniques, researchers have shown impressive progress in accepting simple text captions as input and generating close to photorealistic images as output.<sup><a href="#fn2" id="ref2">2</a></sup> 
 
