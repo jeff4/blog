@@ -18,7 +18,7 @@ Looking more broadly, there is a whole universe of adults who have the desire to
 
 Does CaptionDraw sound like science fiction? The core engine for the product can be glimpsed in a series of papers over the last four years. Using image processing, GANs and related neural net techniques, researchers have shown impressive progress in accepting simple text captions as input and generating close to photorealistic images as output.<sup><a href="#fn2" id="ref2">2</a></sup> 
 
-Of course, a lot more work needed to make something like CaptionDraw a reality.  But if something like CaptionDraw could be developed, think of all the other applications we could build that is essence a smart Uncle Walt who can draw whatever you ask!
+Of course, a lot more work is needed to make CaptionDraw a reality.  But if something like CaptionDraw could be developed, think of all the other uses we could have for a smart, talented Uncle Walt who can draw whatever you ask!
 
 
 ---
