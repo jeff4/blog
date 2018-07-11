@@ -4,7 +4,7 @@ title: "GANs Part 3: CaptionDraw "
 tags: tech machine-learning research gan
 ---
 
-My recent posts on generative adversarial networks still feel a bit abstract. Perhaps a more concrete product idea will help. Let's call it *CaptionDraw*, a personal digital sketch artist.
+My recent [posts](/blog/2018/generative-adversarial-networks/) on [generative adversarial networks](/blog/2018/GANs-part-2-counterfeit-money/) (aka GANs) still feel a bit abstract. Perhaps a more concrete product idea will help. Let's call it *CaptionDraw*, a personal digital sketch artist.
 
 Kids love to draw, to color, to cut and to paste. Whether they're using colored pencils, construction paper, glue, or touchscreens,  children seek to express themselves visually. 
 
