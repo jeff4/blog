@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Counterfeit Money As An Analogy for GANs"
+title: "GANs Part 2: Counterfeit Money"
 tags: tech machine-learning research gan
 ---
 
