@@ -79,8 +79,8 @@ analytics:
 # Site Author
 author:
   name             : "Jeff Hwang"
-  avatar           : https://pbs.twimg.com/profile_images/427693200816369664/4mBhvh4-_400x400.png
-  bio              : "Human Learning | Machine Learning "
+  #avatar           : https://pbs.twimg.com/profile_images/427693200816369664/4mBhvh4-_400x400.png
+  bio              : "Occasional Thoughts"
   #location         : "San Francisco Bay Area"
   email            :
   #uri              : "/about/"
