@@ -61,7 +61,7 @@ twitter:
   #username               :
   #app_id                 :
  # publisher              :
-og_image                 : # Open Graph/Twitter default site image
+# og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -81,7 +81,7 @@ author:
   name             : "Jeff Hwang"
   avatar           : https://pbs.twimg.com/profile_images/427693200816369664/4mBhvh4-_400x400.png
   bio              : "Human Learning | Machine Learning "
-  #location         : "Seattle, WA"
+  #location         : "San Francisco Bay Area"
   email            :
   #uri              : "/about/"
   bitbucket        :
